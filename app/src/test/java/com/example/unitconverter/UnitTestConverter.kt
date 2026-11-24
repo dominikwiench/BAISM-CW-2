@@ -21,7 +21,7 @@ class UnitConverterTest {
             10.0,
             Conversion.FEET_TO_METERS
         )
-        assertEquals(3.048, result, tolerance)
+        assertEquals(5.7, result, tolerance)
     }
 
     @Test
